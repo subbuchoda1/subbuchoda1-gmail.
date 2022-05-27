@@ -1,2 +1,2 @@
 # subbuchoda1-gmail.
-subbuchoda1.github.io
+subbuchoda.github.io
